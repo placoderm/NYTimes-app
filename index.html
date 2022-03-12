@@ -7,15 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
-    <title>TITLE</title>
+    <title>NYT</title>
 </head>
 
 <body>
     <header>
-        <!-- <button id="add-before">add before</button> -->
-        <button id="load-button">Load</button>
-        <button id="clear-localStorage">Clear localStorage</button><span id="clear-lS-message"></span>
-        <span id="spinner"></span>
+        <div id="header-row-1">
+            <button id="load-button">Load</button>
+            <button id="clear-localStorage">Clear History</button><span id="clear-lS-message"></span>
+            <span id="spinner"></span>
+        </div>
+        <div id="header-row-2"></div>
     </header>
     <div id="list"></div>
     <script type="module" src="index.js"></script>

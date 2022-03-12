@@ -1,15 +1,45 @@
-header {
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@400;500&display=swap");
+
+body {
+  width: 65rem;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+#header-row-1 {
   display: flex;
   flex-direction: row;
   align-items: center;
+  height: 3rem;
+}
+
+#header-row-2 {
+  margin-bottom: 1rem;
 }
 
 button {
-  border: solid 3px rgb(6, 71, 124);
+  border: solid 2px rgb(6, 71, 124);
   background-color: steelblue;
   color: white;
   padding: 0.8rem;
-  margin: 0.5rem;
+  margin: 0 0.3rem 0.3rem 0;
+}
+
+button:active {
+  border: solid 2px rgb(105, 105, 105);
+  background-color: rgb(177, 177, 177);
+}
+
+button.filter-buttons {
+  padding: 0.4rem 0.6rem;
+  margin: 0.3rem 0 0;
+  border: solid 2px rgb(41, 116, 63);
+  background-color: rgb(70, 180, 103);
+}
+
+button.disabled {
+  border: solid 2px rgb(105, 105, 105);
+  background-color: rgb(177, 177, 177);
 }
 
 div.item {
@@ -20,13 +50,18 @@ div.item {
   overflow: auto;
 }
 
+.section-hidden {
+  display: none;
+}
+
 div.thumb {
   float: left;
   width: 75px;
   height: 75px;
 }
 .placeholder {
-  margin: 0 1rem 1rem 0rem;
+  border: solid steelblue 1px;
+  margin: 0 1rem 0.1rem 0rem;
   float: left;
   width: 75px;
   height: 75px;
@@ -36,9 +71,10 @@ div.thumb {
 }
 
 h2.title {
-  font-size: 1rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5rem;
+  font-family: "Fira Sans Extra Condensed", sans-serif;
   margin: 0;
+  font-weight: 500;
 }
 
 div.item.World {
@@ -49,20 +85,38 @@ div.item.US {
 }
 
 div.item.fresh {
-  border: solid red 3px;
+  border: solid red 2px;
+
+  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  -o-animation: fadeIn 1s;
+  -ms-animation: fadeIn 1s;
 }
 
-h2.title a {
+a h2.title {
   color: black;
+}
+a {
   text-decoration: none;
 }
 
-h2.title a:visited {
-  color: rgb(173, 173, 173);
+a:visited h2.title {
+  color: gray;
 }
 
 span.section {
   color: gray;
+}
+a:visited span.section {
+  color: rgb(201, 201, 201);
+}
+
+.abstract {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  font-weight: 400;
+  color: black;
+  margin-bottom: 0.2rem;
 }
 
 span.topic {
@@ -70,23 +124,37 @@ span.topic {
   display: inline-block;
   background-color: steelblue;
   color: white;
-  border-radius: 5px;
-  padding: 0.1rem;
-  margin: 0 0.2rem;
-  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 3px;
+  padding: 0.1rem 0.2rem;
+  margin: 0 0.2rem 0.2rem 0;
+  font-family: "Fira Sans Extra Condensed", sans-serif;
 }
 
-div.first_published_date {
-  font-family: "Courier New", Courier, monospace;
+span.first_published_date {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
   color: gray;
   font-size: 0.8rem;
+  white-space: nowrap;
 }
 
 @media only screen and (max-width: 975px) {
-  h2 {
-    font-weight: normal;
-    font-size: 0.9rem;
+  body {
+    width: 22rem;
+    margin: auto;
+    margin-top: 0.5rem;
   }
+
+  h2.title {
+    font-weight: normal;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  button.filter-buttons {
+    font-size: 0.7rem;
+    padding: 0.1rem 0.2rem;
+    margin: 0.2rem 0.1rem;
+  }
+
   div.item {
     margin-bottom: 0.8rem;
     padding: 0.5rem;
@@ -102,5 +170,50 @@ div.first_published_date {
   }
   .placeholder {
     margin: 0 0.5rem 0 0rem;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }

@@ -5,6 +5,9 @@
 // index -> index of item in storyArchive array
 
 export default function addNewItemToScreenList(listArea, item, fresh, index) {
+  if (item.section === "Sports" || item.section === "en Español") {
+    return;
+  }
   let desFacet = "";
   const newNode = document.createElement("div");
   newNode.classList.add(`item`);
@@ -14,7 +17,7 @@ export default function addNewItemToScreenList(listArea, item, fresh, index) {
   // if there are des_facet, collect theim in desFacet
   if (item.des_facet) {
     item.des_facet.forEach(topic => {
-      desFacet += `<span class="topic">${topic}</span>`;
+      desFacet += `<span class="topic">${topic.replace(" and ", " & ")}</span>`;
     });
   }
 
@@ -37,13 +40,11 @@ export default function addNewItemToScreenList(listArea, item, fresh, index) {
   });
 
   // Here is where the final output is built
-  newNode.innerHTML = `${thumbnailUrl}
-  <h2 class="title"><a href=" ${item.url}"> <span class="section">#${index + 1} ${item.section}</span> ${
-    item.title
-  }</a> </h2>
+  newNode.innerHTML = `<a href=" ${item.url}">${thumbnailUrl}
+  <h2 class="title"> <span class="section">${item.section}</span> ${item.title} </h2>
       <div class="abstract">${item.abstract}</div>
-      <div class="topic-list">${desFacet}</div>
-      <div class="first_published_date">${formattedDate}</div>
+      <div class="topic-list">${desFacet} <span class="first_published_date">${formattedDate}</span></div>
+      </a>
     `;
   list.insertBefore(newNode, listArea.children[0]);
 }
