@@ -2,6 +2,8 @@
 
 This project is built using [one of the free APIs](https://developer.nytimes.com/apis) from the NY Times called [Times Newswire API](https://developer.nytimes.com/docs/timeswire-product/1/overview).
 
+_Live Version:_ https://nytimes-app.netlify.app/
+
 # Steps
 
 1. Fetch the object and log it to the console to test
