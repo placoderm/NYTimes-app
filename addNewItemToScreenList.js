@@ -1,5 +1,5 @@
 // parameters:
-//  listArea -> the node to add to
+// listArea -> the node to add to
 // item => item object to add
 // fresh -> boolean true if new
 // index -> index of item in storyArchive array
