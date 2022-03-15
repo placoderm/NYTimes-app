@@ -1,7 +1,7 @@
 // Example
 // const API = new FetchWrapper("https://api.openweathermap.org/data/2.5/onecall");
 // API.get(`?lat=${lat}&lon=${lon}&units=${units}&appid=59e64aa7985aed5ceaf658f187a92cef`).then(data => {
-// console.log(data);
+
 // })
 
 export default class FetchWrapper {

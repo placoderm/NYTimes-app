@@ -1,0 +1,1491 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 500,
+    "results": [
+        {
+            "slug_name": "14virus-briefing-tsa",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "The T.S.A. has issued hundreds of thousands of dollars in fines for mask mandate violations.",
+            "abstract": "",
+            "uri": "nyt://article/b134e5d6-08bd-5251-a11f-80c3212daa21",
+            "url": "https://www.nytimes.com/live/2022/03/14/world/covid-19-mandates-cases-vaccine/the-tsa-has-issued-hundreds-of-thousands-of-dollars-in-fines-for-mask-mandate-violations",
+            "byline": "BY EILEEN SULLIVAN",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-tsa-mask/14virus-briefing-tsa-mask-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T22:05:09-04:00",
+            "created_date": "2022-03-14T22:05:09-04:00",
+            "published_date": "2022-03-14T22:05:09-04:00",
+            "first_published_date": "2022-03-14T22:05:09-04:00",
+            "material_type_facet": "Live Blog Post",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": null,
+            "org_facet": null,
+            "per_facet": null,
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-tsa-mask/14virus-briefing-tsa-mask-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Transportaion Security Administration officers standing guard after shutting down a security checkpoint to investigate a potential security threat at Minneapolis St. Paul International Airport in April 2021.",
+                    "copyright": "Amr Alfiky for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-tsa-mask/14virus-briefing-tsa-mask-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Transportaion Security Administration officers standing guard after shutting down a security checkpoint to investigate a potential security threat at Minneapolis St. Paul International Airport in April 2021.",
+                    "copyright": "Amr Alfiky for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-tsa-mask/14virus-briefing-tsa-mask-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Transportaion Security Administration officers standing guard after shutting down a security checkpoint to investigate a potential security threat at Minneapolis St. Paul International Airport in April 2021.",
+                    "copyright": "Amr Alfiky for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-tsa-mask/14virus-briefing-tsa-mask-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Transportaion Security Administration officers standing guard after shutting down a security checkpoint to investigate a potential security threat at Minneapolis St. Paul International Airport in April 2021.",
+                    "copyright": "Amr Alfiky for The New York Times"
+                }
+            ]
+        },
+        {
+            "slug_name": "15russia-exiles-esp",
+            "section": "en Español",
+            "subsection": "",
+            "title": "‘Las cosas solo empeorarán’: la guerra de Putin envía a los rusos al exilio",
+            "abstract": "La salida de decenas de miles de rusos revela el cambio tectónico que provocó la invasión rusa a Ucrania al interior del país.",
+            "uri": "nyt://article/6cda9db1-8437-5507-8aa9-78b3cca856ff",
+            "url": "https://www.nytimes.com/es/2022/03/14/espanol/rusos-exilio.html",
+            "byline": "BY ANTON TROIANOVSKI AND PATRICK KINGSLEY",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/13/world/13russia-exiles1-esp1/13russia-exiles1-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T22:26:58-04:00",
+            "created_date": "2022-03-14T22:00:21-04:00",
+            "published_date": "2022-03-14T22:00:21-04:00",
+            "first_published_date": "2022-03-14T22:00:21-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Politics and Government",
+                "Immigration and Emigration"
+            ],
+            "org_facet": null,
+            "per_facet": [
+                "Erdogan, Recep Tayyip",
+                "Khodorkovsky, Mikhail B"
+            ],
+            "geo_facet": [
+                "Armenia",
+                "Georgia",
+                "Istanbul (Turkey)",
+                "Russia"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/13/world/13russia-exiles1-esp1/13russia-exiles1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rusos que huyeron tras la invasión de Rusia a Ucrania se reunieron el sábado en el apartamento de un voluntario en Estambul para compartir sus historias y recibir consejos para establecerse en Turquía. ",
+                    "copyright": "Sergey Ponomarev para The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/13/world/13russia-exiles1-esp1/merlin_203770947_51ada51d-268c-418a-aa0b-44c388f732cf-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rusos que huyeron tras la invasión de Rusia a Ucrania se reunieron el sábado en el apartamento de un voluntario en Estambul para compartir sus historias y recibir consejos para establecerse en Turquía. ",
+                    "copyright": "Sergey Ponomarev para The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/13/world/13russia-exiles1-esp1/merlin_203770947_51ada51d-268c-418a-aa0b-44c388f732cf-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rusos que huyeron tras la invasión de Rusia a Ucrania se reunieron el sábado en el apartamento de un voluntario en Estambul para compartir sus historias y recibir consejos para establecerse en Turquía. ",
+                    "copyright": "Sergey Ponomarev para The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/13/world/13russia-exiles1-esp1/merlin_203770947_51ada51d-268c-418a-aa0b-44c388f732cf-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rusos que huyeron tras la invasión de Rusia a Ucrania se reunieron el sábado en el apartamento de un voluntario en Estambul para compartir sus historias y recibir consejos para establecerse en Turquía. ",
+                    "copyright": "Sergey Ponomarev para The New York Times"
+                }
+            ]
+        },
+        {
+            "slug_name": "15wordplay-pits",
+            "section": "Gameplay",
+            "subsection": "",
+            "title": "Arrive With Good Spirits",
+            "abstract": "Michael Lieberman’s puzzle is a peach.",
+            "uri": "nyt://article/5592ff9f-b8b2-57dd-a0d4-6314c909e14f",
+            "url": "https://www.nytimes.com/2022/03/14/crosswords/daily-puzzle-2022-03-15.html",
+            "byline": "BY RACHEL FABI",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/15/crosswords/15wordplay-bo/15wordplay-bo-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T22:00:05-04:00",
+            "created_date": "2022-03-14T22:00:05-04:00",
+            "published_date": "2022-03-14T22:00:05-04:00",
+            "first_published_date": "2022-03-14T22:00:05-04:00",
+            "material_type_facet": "News",
+            "kicker": "wordplay, the crossword column",
+            "subheadline": "",
+            "des_facet": [
+                "Crossword Puzzles"
+            ],
+            "org_facet": null,
+            "per_facet": [
+                "Lieberman, Michael (Crossword Constructor)"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/crosswords/15wordplay-bo/15wordplay-bo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A famous Portuguese water dog walked across the South Lawn of the White House in Washington, D.C., in 2010.",
+                    "copyright": "Saul Loeb/Agence France-Presse via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/crosswords/15wordplay-bo/15wordplay-bo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A famous Portuguese water dog walked across the South Lawn of the White House in Washington, D.C., in 2010.",
+                    "copyright": "Saul Loeb/Agence France-Presse via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/crosswords/15wordplay-bo/15wordplay-bo-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A famous Portuguese water dog walked across the South Lawn of the White House in Washington, D.C., in 2010.",
+                    "copyright": "Saul Loeb/Agence France-Presse via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/crosswords/15wordplay-bo/15wordplay-bo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 120,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A famous Portuguese water dog walked across the South Lawn of the White House in Washington, D.C., in 2010.",
+                    "copyright": "Saul Loeb/Agence France-Presse via Getty Images"
+                }
+            ]
+        },
+        {
+            "slug_name": "14ukraine-blog-zelensky-speech",
+            "section": "World",
+            "subsection": "Europe",
+            "title": "Zelensky calls on Russian troops to surrender.",
+            "abstract": "The Ukrainian leader and the Pentagon have both said some Russian soldiers have surrendered or been captured.",
+            "uri": "nyt://article/9ff5fdfb-f226-5ce0-8456-6e52ba150953",
+            "url": "https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war/zelensky-russian-troops-surrender",
+            "byline": "BY JESUS JIMÉNEZ",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-zelensky-speech/14ukraine-blog-zelensky-speech-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T21:51:47-04:00",
+            "created_date": "2022-03-14T21:51:47-04:00",
+            "published_date": "2022-03-14T21:51:47-04:00",
+            "first_published_date": "2022-03-14T21:51:47-04:00",
+            "material_type_facet": "Live Blog Post",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": null,
+            "per_facet": [
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-zelensky-speech/14ukraine-blog-zelensky-speech-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Russian armored vehicle destroyed by Ukrainian forces near Mykolaiv earlier this month.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-zelensky-speech/merlin_203339850_1734bde8-25a1-481e-8605-ac8cd48c76bb-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Russian armored vehicle destroyed by Ukrainian forces near Mykolaiv earlier this month.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-zelensky-speech/merlin_203339850_1734bde8-25a1-481e-8605-ac8cd48c76bb-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Russian armored vehicle destroyed by Ukrainian forces near Mykolaiv earlier this month.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-zelensky-speech/merlin_203339850_1734bde8-25a1-481e-8605-ac8cd48c76bb-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Russian armored vehicle destroyed by Ukrainian forces near Mykolaiv earlier this month.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                }
+            ]
+        },
+        {
+            "slug_name": "c15chinese-briefing-web",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "title": "简报：俄罗斯军队轰炸基辅；中国疫情恶化，多地限制出行",
+            "abstract": "俄罗斯扩大空袭范围，俄乌谈判未实现突破；美中高官会面，美国警告中方不要援助俄罗斯；抗议者冲进俄罗斯黄金档新闻直播现场呼吁反战……这里是今日要闻。",
+            "uri": "nyt://article/2b5de451-97c7-5d34-b006-ed508508091d",
+            "url": "https://www.nytimes.com/zh-hans/2022/03/14/world/asia/ukraine-russia-war-china-us.html",
+            "byline": "BY EMILY CHAN AND KONEY BAI",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/15/multimedia/CN-15ambriefing-asia-nl-UKR-copy/15ambriefing-asia-nl-UKR-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T21:50:03-04:00",
+            "created_date": "2022-03-14T21:50:03-04:00",
+            "published_date": "2022-03-14T21:50:03-04:00",
+            "first_published_date": "2022-03-14T21:50:03-04:00",
+            "material_type_facet": "briefing",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": null,
+            "org_facet": null,
+            "per_facet": null,
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/multimedia/CN-15ambriefing-asia-nl-UKR-copy/15ambriefing-asia-nl-UKR-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "周一，基辅被击中的一栋公寓楼外的居民。",
+                    "copyright": "Lynsey Addario for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/multimedia/CN-15ambriefing-asia-nl-UKR-copy/15ambriefing-asia-nl-UKR-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "周一，基辅被击中的一栋公寓楼外的居民。",
+                    "copyright": "Lynsey Addario for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/multimedia/CN-15ambriefing-asia-nl-UKR-copy/15ambriefing-asia-nl-UKR-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "周一，基辅被击中的一栋公寓楼外的居民。",
+                    "copyright": "Lynsey Addario for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/15/multimedia/CN-15ambriefing-asia-nl-UKR-copy/15ambriefing-asia-nl-UKR-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "周一，基辅被击中的一栋公寓楼外的居民。",
+                    "copyright": "Lynsey Addario for The New York Times"
+                }
+            ]
+        },
+        {
+            "slug_name": "14dc-decoys",
+            "section": "U.S.",
+            "subsection": "",
+            "title": "Russia Deploys a Mystery Munition in Ukraine",
+            "abstract": "Iskander-M short-range ballistic missiles are releasing a previously unknown decoy designed to evade air-defense systems, an American official said.",
+            "uri": "nyt://article/d2c7a0a4-5e52-57ee-a454-22e5e2d4e5c7",
+            "url": "https://www.nytimes.com/2022/03/14/us/russia-ukraine-weapons-decoy.html",
+            "byline": "BY JOHN ISMAY",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/multimedia/14dc-decoys-photo01/14dc-decoys-photo01-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T20:56:24-04:00",
+            "created_date": "2022-03-14T20:56:24-04:00",
+            "published_date": "2022-03-14T20:56:24-04:00",
+            "first_published_date": "2022-03-14T20:56:24-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "War and Armed Conflicts",
+                "Missiles and Missile Defense Systems"
+            ],
+            "org_facet": null,
+            "per_facet": null,
+            "geo_facet": [
+                "Ukraine",
+                "Russia"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14dc-decoys-photo01/14dc-decoys-photo01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Iskander-M short-range ballistic missile launcher. Russian forces have been firing such missiles from mobile launchers across the border into Ukraine.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14dc-decoys-photo01/14dc-decoys-photo01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Iskander-M short-range ballistic missile launcher. Russian forces have been firing such missiles from mobile launchers across the border into Ukraine.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14dc-decoys-photo01/14dc-decoys-photo01-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Iskander-M short-range ballistic missile launcher. Russian forces have been firing such missiles from mobile launchers across the border into Ukraine.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14dc-decoys-photo01/14dc-decoys-photo01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 113,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Iskander-M short-range ballistic missile launcher. Russian forces have been firing such missiles from mobile launchers across the border into Ukraine.",
+                    "copyright": "Maxim Shipenkov/EPA, via Shutterstock"
+                }
+            ]
+        },
+        {
+            "slug_name": "14oligarch",
+            "section": "New York",
+            "subsection": "",
+            "title": "Russian Mogul Is Charged With Donating Illegally to U.S. Campaigns",
+            "abstract": "Andrey Muraviev was indicted on charges of making donations as a foreign national to boost licensing decisions for a marijuana business.",
+            "uri": "nyt://article/6c2763e1-ef5d-5890-962d-61c97459dddb",
+            "url": "https://www.nytimes.com/2022/03/14/nyregion/russian-illegal-campaign-donations.html",
+            "byline": "BY BENJAMIN WEISER",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T20:27:51-04:00",
+            "created_date": "2022-03-14T20:27:51-04:00",
+            "published_date": "2022-03-14T20:27:51-04:00",
+            "first_published_date": "2022-03-14T20:27:51-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Campaign Finance"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [
+                "Giuliani, Rudolph W"
+            ],
+            "geo_facet": [
+                "Manhattan (NYC)"
+            ],
+            "related_urls": null,
+            "multimedia": null
+        },
+        {
+            "slug_name": "14nba-kyrie-fine",
+            "section": "Sports",
+            "subsection": "N.B.A.",
+            "title": "Nets Fined $50,000 for Letting Kyrie Irving Into Home Locker Room",
+            "abstract": "Irving is not allowed to be with the Nets at Barclays Center because he has not been vaccinated against Covid-19.",
+            "uri": "nyt://article/14e8515b-0085-56eb-a32e-a3b7aa54331e",
+            "url": "https://www.nytimes.com/2022/03/14/sports/basketball/nba-nets-covid-fine-kyrie-irving.html",
+            "byline": "BY SOPAN DEB",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T20:16:23-04:00",
+            "created_date": "2022-03-14T20:16:23-04:00",
+            "published_date": "2022-03-14T20:16:23-04:00",
+            "first_published_date": "2022-03-14T20:16:23-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Basketball",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [
+                "Brooklyn Nets"
+            ],
+            "per_facet": [
+                "Adams, Eric L",
+                "Durant, Kevin",
+                "Irving, Kyrie"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                }
+            ]
+        },
+        {
+            "slug_name": "14virus-briefing-irving",
+            "section": "Sports",
+            "subsection": "N.B.A.",
+            "title": "The Nets are fined $50,000 for letting Kyrie Irving into their locker room.",
+            "abstract": "The N.B.A. star is unvaccinated and subject to private-sector vaccine mandates in New York City.",
+            "uri": "nyt://article/f0b76db0-0266-5fa3-8270-900418238e60",
+            "url": "https://www.nytimes.com/live/2022/03/14/world/covid-19-mandates-cases-vaccine/nets-fined-kyrie-irving-covid",
+            "byline": "BY SOPAN DEB",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:45:13-04:00",
+            "created_date": "2022-03-14T19:45:13-04:00",
+            "published_date": "2022-03-14T19:45:13-04:00",
+            "first_published_date": "2022-03-14T19:45:13-04:00",
+            "material_type_facet": "Live Blog Post",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Brooklyn Nets"
+            ],
+            "per_facet": [
+                "Irving, Kyrie"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14virus-briefing-kyrie-irving/14virus-briefing-kyrie-irving-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kyrie Irving of the Nets, in the front row at Barclays Center on Sunday.",
+                    "copyright": "Sarah Stier/Getty Images"
+                }
+            ]
+        },
+        {
+            "slug_name": "14biasbeating",
+            "section": "New York",
+            "subsection": "",
+            "title": "Man Hit Woman in the Head 125 Times Because She Was Asian, Officials Say",
+            "abstract": "A man has been charged with attempted murder as a hate crime after a vicious assault in Yonkers, N.Y., that was captured by a security camera.",
+            "uri": "nyt://article/f83c2005-0a4e-592b-86b6-171acbb33c4c",
+            "url": "https://www.nytimes.com/2022/03/14/nyregion/yonkers-hate-crime-anti-asian-attack.html",
+            "byline": "BY ED SHANAHAN",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/nyregion/14biasbeating/14biasbeating-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:39:17-04:00",
+            "created_date": "2022-03-14T19:39:17-04:00",
+            "published_date": "2022-03-14T19:39:17-04:00",
+            "first_published_date": "2022-03-14T19:39:17-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Assaults",
+                "Discrimination",
+                "Murders, Attempted Murders and Homicides",
+                "Hate Crimes",
+                "Asian-Americans"
+            ],
+            "org_facet": [
+                "Legal Aid Society",
+                "Stop AAPI Hate"
+            ],
+            "per_facet": null,
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/nyregion/14biasbeating/14biasbeating-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A video shows the woman in a vestibule as the attacker approaches from behind. After punching her repeatedly, he stomps and spits on her before walking away.",
+                    "copyright": "Yonkers Police Department"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/nyregion/14biasbeating/14biasbeating-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A video shows the woman in a vestibule as the attacker approaches from behind. After punching her repeatedly, he stomps and spits on her before walking away.",
+                    "copyright": "Yonkers Police Department"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/nyregion/14biasbeating/14biasbeating-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A video shows the woman in a vestibule as the attacker approaches from behind. After punching her repeatedly, he stomps and spits on her before walking away.",
+                    "copyright": "Yonkers Police Department"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/nyregion/14biasbeating/14biasbeating-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 106,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A video shows the woman in a vestibule as the attacker approaches from behind. After punching her repeatedly, he stomps and spits on her before walking away.",
+                    "copyright": "Yonkers Police Department"
+                }
+            ]
+        },
+        {
+            "slug_name": "14brady-folo",
+            "section": "Sports",
+            "subsection": "N.F.L.",
+            "title": "As Tom Brady Returns, N.F.L. Tilts Toward Its Quarterbacks",
+            "abstract": "Tom Brady, Aaron Rodgers and Russell Wilson all made decisions that shifted plans around the league and reinforced the value of having a franchise quarterback.",
+            "uri": "nyt://article/e82aed0f-af1f-5ff7-babd-d07c2f9e1d08",
+            "url": "https://www.nytimes.com/2022/03/14/sports/football/tom-brady-aaron-rodgers-russell-wilson.html",
+            "byline": "BY EMMANUEL MORGAN",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/sports/14brady-folo/14brady-folo-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T22:00:59-04:00",
+            "created_date": "2022-03-14T19:15:53-04:00",
+            "published_date": "2022-03-14T19:15:53-04:00",
+            "first_published_date": "2022-03-14T19:15:53-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Football",
+                "Free Agents (Sports)",
+                "Trades (Sports)"
+            ],
+            "org_facet": [
+                "Green Bay Packers",
+                "National Football League",
+                "Seattle Seahawks",
+                "Tampa Bay Buccaneers",
+                "Denver Broncos"
+            ],
+            "per_facet": [
+                "Brady, Tom",
+                "Gutekunst, Brian",
+                "Rodgers, Aaron",
+                "Wilson, Russell (1988- )"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/sports/14brady-folo/14brady-folo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tom Brady gave his hat to a fan after beating the Philadelphia Eagles, 31-15, in the wild-card round of the N.F.C. playoffs last season.",
+                    "copyright": "Nathan Ray Seebeck/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/sports/14brady-folo/14brady-folo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tom Brady gave his hat to a fan after beating the Philadelphia Eagles, 31-15, in the wild-card round of the N.F.C. playoffs last season.",
+                    "copyright": "Nathan Ray Seebeck/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/sports/14brady-folo/14brady-folo-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tom Brady gave his hat to a fan after beating the Philadelphia Eagles, 31-15, in the wild-card round of the N.F.C. playoffs last season.",
+                    "copyright": "Nathan Ray Seebeck/USA Today Sports, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/sports/14brady-folo/merlin_203821065_b5ff5a35-586c-43cc-9038-a89082b0eaef-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tom Brady gave his hat to a fan after beating the Philadelphia Eagles, 31-15, in the wild-card round of the N.F.C. playoffs last season.",
+                    "copyright": "Nathan Ray Seebeck/USA Today Sports, via Reuters"
+                }
+            ]
+        },
+        {
+            "slug_name": "14dc-investigate",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "Document in Jan. 6 Case Shows Plan to Storm Government Buildings",
+            "abstract": "New details from evidence cited in the indictment of Enrique Tarrio, the former head of the far-right Proud Boys, reveal a plan with similarities to what unfolded at the Capitol.",
+            "uri": "nyt://article/adb9b998-f479-5e77-88cc-356777f2f994",
+            "url": "https://www.nytimes.com/2022/03/14/us/politics/enrique-tarrio-jan-6-document.html",
+            "byline": "BY ALAN FEUER",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/us/politics/14dc-investigate-1/merlin_190955667_71428c27-4dda-47f4-96ed-1558f20e1790-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:15:29-04:00",
+            "created_date": "2022-03-14T19:15:29-04:00",
+            "published_date": "2022-03-14T19:15:29-04:00",
+            "first_published_date": "2022-03-14T19:15:29-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Right-Wing Extremism and Alt-Right",
+                "Storming of the US Capitol (Jan, 2021)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Proud Boys"
+            ],
+            "per_facet": [
+                "Tarrio, Enrique"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14dc-investigate-1/merlin_190955667_71428c27-4dda-47f4-96ed-1558f20e1790-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The indictment of Enrique Tarrio was a significant development in the Justice Department’s sprawling investigation of the Capitol attack.",
+                    "copyright": "Eva Marie Uzcategui/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14dc-investigate-1/merlin_190955667_71428c27-4dda-47f4-96ed-1558f20e1790-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The indictment of Enrique Tarrio was a significant development in the Justice Department’s sprawling investigation of the Capitol attack.",
+                    "copyright": "Eva Marie Uzcategui/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14dc-investigate-1/merlin_190955667_71428c27-4dda-47f4-96ed-1558f20e1790-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The indictment of Enrique Tarrio was a significant development in the Justice Department’s sprawling investigation of the Capitol attack.",
+                    "copyright": "Eva Marie Uzcategui/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14dc-investigate-1/merlin_190955667_71428c27-4dda-47f4-96ed-1558f20e1790-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The indictment of Enrique Tarrio was a significant development in the Justice Department’s sprawling investigation of the Capitol attack.",
+                    "copyright": "Eva Marie Uzcategui/Agence France-Presse — Getty Images"
+                }
+            ]
+        },
+        {
+            "slug_name": "14nowroz",
+            "section": "Food",
+            "subsection": "",
+            "title": "For Afghans Abroad, Nowruz Is a Chance to Reflect",
+            "abstract": "The holiday marks the beginning of spring, with many in the diaspora celebrating with rebirth, renewal and, now, resistance in mind.",
+            "uri": "nyt://article/311a3032-e920-52b9-8e51-64837d08c74d",
+            "url": "https://www.nytimes.com/2022/03/14/dining/afghan-nowroz-celebration-food.html",
+            "byline": "BY NAZ DERAVIAN",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/16/dining/14NOWROZ1/14NOWROZ1-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:13:13-04:00",
+            "created_date": "2022-03-14T19:13:13-04:00",
+            "published_date": "2022-03-14T19:13:13-04:00",
+            "first_published_date": "2022-03-14T19:13:13-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Cooking and Cookbooks",
+                "Afghan-Americans",
+                "Holidays and Special Occasions",
+                "Zoroastrianism"
+            ],
+            "org_facet": null,
+            "per_facet": [
+                "Ayubi, Durkhanai"
+            ],
+            "geo_facet": [
+                "Afghanistan",
+                "Adelaide (Australia)"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/16/dining/14NOWROZ1/14NOWROZ1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Afghans around the world, a Nowruz feast of sabzi challaw, a fragrant spinach and lamb stew with rice, and haft mewa, a nut and dried fruit compote, ushers in a season of rebirth.",
+                    "copyright": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/16/dining/14NOWROZ1/merlin_203116044_63b136c7-a6c2-49bb-8871-b3d06bbe7b89-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Afghans around the world, a Nowruz feast of sabzi challaw, a fragrant spinach and lamb stew with rice, and haft mewa, a nut and dried fruit compote, ushers in a season of rebirth.",
+                    "copyright": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/16/dining/14NOWROZ1/merlin_203116044_63b136c7-a6c2-49bb-8871-b3d06bbe7b89-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Afghans around the world, a Nowruz feast of sabzi challaw, a fragrant spinach and lamb stew with rice, and haft mewa, a nut and dried fruit compote, ushers in a season of rebirth.",
+                    "copyright": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/16/dining/14NOWROZ1/merlin_203116044_63b136c7-a6c2-49bb-8871-b3d06bbe7b89-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For Afghans around the world, a Nowruz feast of sabzi challaw, a fragrant spinach and lamb stew with rice, and haft mewa, a nut and dried fruit compote, ushers in a season of rebirth.",
+                    "copyright": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich."
+                }
+            ]
+        },
+        {
+            "slug_name": "14kepner-yankees",
+            "section": "Sports",
+            "subsection": "Baseball",
+            "title": "A Quiet Winter Gives Way to a Very Loud Spring",
+            "abstract": "With the lockout over and camps open, the Yankees remade their infield, Atlanta acquired a star (and moved on from another) and there was terrible news from the Padres.",
+            "uri": "nyt://article/c3d83545-431d-5c7f-af53-3806a33c83fb",
+            "url": "https://www.nytimes.com/2022/03/14/sports/baseball/josh-donaldson-yankees.html",
+            "byline": "BY TYLER KEPNER",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/multimedia/14kepner-yankees-subtop/14kepner-yankees-subtop-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T21:13:06-04:00",
+            "created_date": "2022-03-14T19:12:54-04:00",
+            "published_date": "2022-03-14T19:12:54-04:00",
+            "first_published_date": "2022-03-14T19:12:54-04:00",
+            "material_type_facet": "News",
+            "kicker": "On Baseball",
+            "subheadline": "",
+            "des_facet": null,
+            "org_facet": [
+                "New York Yankees",
+                "San Diego Padres",
+                "Minnesota Twins",
+                "Cincinnati Reds",
+                "Seattle Mariners",
+                "Oakland Athletics"
+            ],
+            "per_facet": [
+                "Donaldson, Josh (1985- )",
+                "Tatis, Fernando Jr",
+                "deGrom, Jacob",
+                "Olson, Matt (1994- )",
+                "Freeman, Freddie (1989- )",
+                "Suarez, Eugenio (1991- )"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14kepner-yankees-subtop/14kepner-yankees-subtop-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Josh Donaldson was in camp with the Yankees on Monday. He was acquired in a trade with the Minnesota Twins on Sunday.",
+                    "copyright": "John Raoux/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14kepner-yankees-subtop/14kepner-yankees-subtop-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Josh Donaldson was in camp with the Yankees on Monday. He was acquired in a trade with the Minnesota Twins on Sunday.",
+                    "copyright": "John Raoux/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14kepner-yankees-subtop/14kepner-yankees-subtop-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Josh Donaldson was in camp with the Yankees on Monday. He was acquired in a trade with the Minnesota Twins on Sunday.",
+                    "copyright": "John Raoux/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14kepner-yankees-subtop/14kepner-yankees-subtop-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Josh Donaldson was in camp with the Yankees on Monday. He was acquired in a trade with the Minnesota Twins on Sunday.",
+                    "copyright": "John Raoux/Associated Press"
+                }
+            ]
+        },
+        {
+            "slug_name": "14virus-briefing-orlando-official",
+            "section": "U.S.",
+            "subsection": "",
+            "title": "A Florida public health official, suspended after promoting vaccination to his staff, has been reinstated.",
+            "abstract": "",
+            "uri": "nyt://article/acba0b37-dbec-5db9-bf1c-8b80911da949",
+            "url": "https://www.nytimes.com/live/2022/03/14/world/covid-19-mandates-cases-vaccine/a-florida-public-health-official-suspended-after-promoting-vaccination-to-his-staff-has-been-reinstated",
+            "byline": "BY PATRICIA MAZZEI",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/us/14virus-briefing-orlando/14virus-briefing-orlando-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:03:09-04:00",
+            "created_date": "2022-03-14T19:03:09-04:00",
+            "published_date": "2022-03-14T19:03:09-04:00",
+            "first_published_date": "2022-03-14T19:03:09-04:00",
+            "material_type_facet": "Live Blog Post",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Politics and Government",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": null,
+            "per_facet": [
+                "Pino, Raul"
+            ],
+            "geo_facet": [
+                "Florida",
+                "Orange County (Fla)"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/14virus-briefing-orlando/14virus-briefing-orlando-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Raul Pino, the health administrator for Orange County, Fla., at a news briefing in Orlando in August 2021.",
+                    "copyright": "Rich Pope/Orlando Sentinel, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/14virus-briefing-orlando/14virus-briefing-orlando-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Raul Pino, the health administrator for Orange County, Fla., at a news briefing in Orlando in August 2021.",
+                    "copyright": "Rich Pope/Orlando Sentinel, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/14virus-briefing-orlando/14virus-briefing-orlando-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Raul Pino, the health administrator for Orange County, Fla., at a news briefing in Orlando in August 2021.",
+                    "copyright": "Rich Pope/Orlando Sentinel, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/14virus-briefing-orlando/14virus-briefing-orlando-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Raul Pino, the health administrator for Orange County, Fla., at a news briefing in Orlando in August 2021.",
+                    "copyright": "Rich Pope/Orlando Sentinel, via Reuters"
+                }
+            ]
+        },
+        {
+            "slug_name": "14demakos",
+            "section": "New York",
+            "subsection": "",
+            "title": "Thomas Demakos, Judge in Howard Beach Murder Case, Dies at 98",
+            "abstract": "In a notorious 1987 trial over the death of a Black man in New York City, he ruled that defense lawyers could not exclude potential jurors on the basis of race.",
+            "uri": "nyt://article/45f4a043-b202-5091-8cf5-11a8b8f935f6",
+            "url": "https://www.nytimes.com/2022/03/14/nyregion/thomas-demakos-dead.html",
+            "byline": "BY SAM ROBERTS",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/us/politics/14demakos-image/14demakos-image-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:01:01-04:00",
+            "created_date": "2022-03-14T19:01:01-04:00",
+            "published_date": "2022-03-14T19:01:01-04:00",
+            "first_published_date": "2022-03-14T19:01:01-04:00",
+            "material_type_facet": "Obituary (Obit)",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Race and Ethnicity",
+                "Black People",
+                "Murders, Attempted Murders and Homicides",
+                "Decisions and Verdicts",
+                "Courts and the Judiciary",
+                "Deaths (Obituaries)"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Demakos, Thomas A"
+            ],
+            "geo_facet": [
+                "Queens (NYC)",
+                "Howard Beach (Queens, NY)"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14demakos-image/14demakos-image-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Thomas DeMakos in 1996. His decision in the landmark Howard Beach case put him “in another place forever,” Jimmy Breslin wrote.",
+                    "copyright": "Pool photo by Luiz C. Ribeiro"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14demakos-image/14demakos-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Thomas DeMakos in 1996. His decision in the landmark Howard Beach case put him “in another place forever,” Jimmy Breslin wrote.",
+                    "copyright": "Pool photo by Luiz C. Ribeiro"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14demakos-image/14demakos-image-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Thomas DeMakos in 1996. His decision in the landmark Howard Beach case put him “in another place forever,” Jimmy Breslin wrote.",
+                    "copyright": "Pool photo by Luiz C. Ribeiro"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14demakos-image/14demakos-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 116,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justice Thomas DeMakos in 1996. His decision in the landmark Howard Beach case put him “in another place forever,” Jimmy Breslin wrote.",
+                    "copyright": "Pool photo by Luiz C. Ribeiro"
+                }
+            ]
+        },
+        {
+            "slug_name": "14krugman",
+            "section": "Opinion",
+            "subsection": "",
+            "title": "How Not to Have a Putin Recession",
+            "abstract": "The Fed should keep calm and carry on.",
+            "uri": "nyt://article/3bbb81a3-76c3-5b7a-a980-acfe2e7fbf24",
+            "url": "https://www.nytimes.com/2022/03/14/opinion/biden-putin-gas-prices-inflation.html",
+            "byline": "BY PAUL KRUGMAN",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/opinion/14krugman1/14krugman1-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:00:07-04:00",
+            "created_date": "2022-03-14T19:00:07-04:00",
+            "published_date": "2022-03-14T19:00:07-04:00",
+            "first_published_date": "2022-03-14T19:00:07-04:00",
+            "material_type_facet": "Op-Ed",
+            "kicker": "Paul Krugman",
+            "subheadline": "",
+            "des_facet": [
+                "United States Economy",
+                "Oil (Petroleum) and Gasoline",
+                "Russian Invasion of Ukraine (2022)",
+                "Inflation (Economics)",
+                "Interest Rates"
+            ],
+            "org_facet": [
+                "Federal Reserve System"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/opinion/14krugman1/14krugman1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jae C. Hong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/opinion/14krugman1/merlin_203556921_5590b138-e639-4b2d-a70d-97b29a61f30f-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jae C. Hong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/opinion/14krugman1/merlin_203556921_5590b138-e639-4b2d-a70d-97b29a61f30f-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jae C. Hong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/opinion/14krugman1/merlin_203556921_5590b138-e639-4b2d-a70d-97b29a61f30f-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jae C. Hong/Associated Press"
+                }
+            ]
+        },
+        {
+            "slug_name": "14onpolitics-pm-onsite",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "title": "How a Murdoch Hopes to Save American Democracy",
+            "abstract": "Kathryn Murdoch is trying to change how elections are run. It’s a work in progress.",
+            "uri": "nyt://article/b3f97e97-0904-573c-a285-2e0813232c14",
+            "url": "https://www.nytimes.com/2022/03/14/us/politics/murdoch-elections-donations.html",
+            "byline": "BY BLAKE HOUNSHELL AND LEAH ASKARINAM",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/us/politics/14onpolitics-pm-newsletter-Kathryn/14onpolitics-pm-newsletter-Kathryn-thumbStandard-v2.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T19:00:07-04:00",
+            "created_date": "2022-03-14T19:00:07-04:00",
+            "published_date": "2022-03-14T19:00:07-04:00",
+            "first_published_date": "2022-03-14T19:00:07-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "internal-sub-only-nl",
+                "Elections, House of Representatives",
+                "Ranked-Choice Voting",
+                "Primaries and Caucuses"
+            ],
+            "org_facet": null,
+            "per_facet": [
+                "Murdoch, Kathryn"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14onpolitics-pm-newsletter-Kathryn/14onpolitics-pm-newsletter-Kathryn-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kathryn Murdoch has become a leader of a network of donors seeking to change the way Americans choose their elected officials.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14onpolitics-pm-newsletter-Kathryn/merlin_157799850_452c339c-3480-4830-b0bb-084ecb3ffe28-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kathryn Murdoch has become a leader of a network of donors seeking to change the way Americans choose their elected officials.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14onpolitics-pm-newsletter-Kathryn/merlin_157799850_452c339c-3480-4830-b0bb-084ecb3ffe28-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kathryn Murdoch has become a leader of a network of donors seeking to change the way Americans choose their elected officials.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/us/politics/14onpolitics-pm-newsletter-Kathryn/merlin_157799850_452c339c-3480-4830-b0bb-084ecb3ffe28-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kathryn Murdoch has become a leader of a network of donors seeking to change the way Americans choose their elected officials.",
+                    "copyright": "Hilary Swift for The New York Times"
+                }
+            ]
+        },
+        {
+            "slug_name": "14ukraine-blog-ledeall",
+            "section": "World",
+            "subsection": "Europe",
+            "title": "Diplomacy Quickens to Halt Ukraine War or Stop Its Expansion",
+            "abstract": "Ukraine and Russia held a new round of talks and agreed to resume them on Tuesday, as the United States warned China about helping an increasingly isolated Kremlin and expanding the conflict.",
+            "uri": "nyt://article/48bca061-e9db-5ac3-be52-7a11f40c1149",
+            "url": "https://www.nytimes.com/2022/03/14/world/europe/ukraine-russia-diplomacy.html",
+            "byline": "BY MARK LANDLER AND DAVID E. SANGER",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-ledeall5/14ukraine-blog-ledeall5-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T21:57:41-04:00",
+            "created_date": "2022-03-14T18:58:57-04:00",
+            "published_date": "2022-03-14T18:58:57-04:00",
+            "first_published_date": "2022-03-14T18:58:57-04:00",
+            "material_type_facet": "News",
+            "kicker": "",
+            "subheadline": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "United States International Relations",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [
+                "North Atlantic Treaty Organization",
+                "State Department",
+                "United Nations"
+            ],
+            "per_facet": [
+                "Sullivan, Jacob J (1976- )"
+            ],
+            "geo_facet": [
+                "Mariupol (Ukraine)",
+                "Kyiv (Ukraine)",
+                "Europe",
+                "China",
+                "Russia",
+                "Ukraine"
+            ],
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-ledeall5/14ukraine-blog-ledeall5-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apartment complex damaged by shelling on Monday morning in the Obolon district in Kyiv, Ukraine.",
+                    "copyright": "Lynsey Addario for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-ledeall5/merlin_203846937_e0809989-3763-45c6-aa17-d79c96c805b2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apartment complex damaged by shelling on Monday morning in the Obolon district in Kyiv, Ukraine.",
+                    "copyright": "Lynsey Addario for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-ledeall5/merlin_203846937_e0809989-3763-45c6-aa17-d79c96c805b2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apartment complex damaged by shelling on Monday morning in the Obolon district in Kyiv, Ukraine.",
+                    "copyright": "Lynsey Addario for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/world/14ukraine-blog-ledeall5/merlin_203846937_e0809989-3763-45c6-aa17-d79c96c805b2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An apartment complex damaged by shelling on Monday morning in the Obolon district in Kyiv, Ukraine.",
+                    "copyright": "Lynsey Addario for The New York Times"
+                }
+            ]
+        },
+        {
+            "slug_name": "14golf-players",
+            "section": "Sports",
+            "subsection": "Golf",
+            "title": "Rain, Wind, Cold, Tornado Warnings and After Five Days, a Champion",
+            "abstract": "The Players Championship was battered by some of the worst weather PGA Tour pros had ever seen. Eventually, Cameron Smith of Australia prevailed.",
+            "uri": "nyt://article/46e86257-fb62-5064-b9d0-7ca823f8c386",
+            "url": "https://www.nytimes.com/2022/03/14/sports/golf/players-championship-pga.html",
+            "byline": "BY BILL PENNINGTON",
+            "thumbnail_standard": "https://static01.nyt.com/images/2022/03/14/multimedia/14golf-players1/14golf-players1-thumbStandard.jpg",
+            "item_type": "Article",
+            "source": "New York Times",
+            "updated_date": "2022-03-14T18:54:58-04:00",
+            "created_date": "2022-03-14T18:54:58-04:00",
+            "published_date": "2022-03-14T18:54:58-04:00",
+            "first_published_date": "2022-03-14T18:54:58-04:00",
+            "material_type_facet": "News",
+            "kicker": "On Golf",
+            "subheadline": "",
+            "des_facet": [
+                "Golf",
+                "Players Championship (Golf)"
+            ],
+            "org_facet": [
+                "Tournament Players Club at Sawgrass"
+            ],
+            "per_facet": [
+                "McIlroy, Rory",
+                "Hovland, Viktor (1997- )",
+                "Bradley, Keegan",
+                "Koepka, Brooks",
+                "Lowry, Shane",
+                "Cameron Smith"
+            ],
+            "geo_facet": null,
+            "related_urls": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14golf-players1/14golf-players1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cameron Smith, a rising star on the PGA Tour, during the final round of the Players Championship golf tournament.",
+                    "copyright": "Gerald Herbert/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14golf-players1/14golf-players1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cameron Smith, a rising star on the PGA Tour, during the final round of the Players Championship golf tournament.",
+                    "copyright": "Gerald Herbert/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14golf-players1/14golf-players1-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cameron Smith, a rising star on the PGA Tour, during the final round of the Players Championship golf tournament.",
+                    "copyright": "Gerald Herbert/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/03/14/multimedia/14golf-players1/14golf-players1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cameron Smith, a rising star on the PGA Tour, during the final round of the Players Championship golf tournament.",
+                    "copyright": "Gerald Herbert/Associated Press"
+                }
+            ]
+        }
+    ]
+}

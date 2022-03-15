@@ -14,13 +14,28 @@
     <header>
         <div id="header-row-1">
             <button id="load-button">Load</button>
+            <button id="settings-button">Settings</button>
             <button id="clear-localStorage">Clear History</button><span id="clear-lS-message"></span>
             <span id="spinner"></span>
         </div>
         <div id="header-row-2"></div>
+        <div id="settings-areas" class="settings-closed">
+            <button id="filter-items">Apply filters</button>
+            <button id="all-button">All</button>
+            <button id="none-button">None</button>
+            <button id="invert-button">Invert</button>
+            <div>Download only the following types:</div>
+            <div id="section-settings-area"></div>
+            <div id="exclude-include-area">
+                Filter with the following words. Separate with commas.
+                <!-- <label>Exclude: <input type="text" id="exclusion"></label> -->
+                <label>Highlight: <input type="text" id="highlight"></label>
+            </div>
+        </div>
     </header>
+    <div id="load-time"></div>
     <div id="list"></div>
-    <div style="font-size:.8rem;color:gray;text-align:center">Not affiliated with NYTimes. Repository on <a
+    <div class="credits">Not affiliated with NYTimes. Repository on <a
             href="https://github.com/placoderm/NYTimes-app">GitHub</a></div>
     <script type="module" src="index.js"></script>
 </body>

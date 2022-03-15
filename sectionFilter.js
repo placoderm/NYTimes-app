@@ -1,38 +1,37 @@
 export default function sectionFilter() {
   const sections = [
     "World",
-    "Podcasts",
+    "U.S.",
+    "New York",
+    "Opinion",
     "Sports",
+    "Podcasts",
     "Business",
-    "Gameplay",
-    "US",
+    "Movies",
     "Science",
-    "Corrections",
     "Books",
     "Style",
+    "Arts",
     "Technology",
-    "Today’sPaper",
   ];
   const headerRow2 = document.getElementById("header-row-2");
 
   // function makeButtons(sections) {
   let html = "";
   sections.forEach(section => {
-    html += `<button class="filter-buttons" id="${section}">${section}</button>\n`;
+    const sectionStripped = section.replace(/\./g, "").replace(/ /g, "");
+    html += `<button class="filter-buttons" id="${sectionStripped}">${section}</button>\n`;
   });
   headerRow2.innerHTML = html;
 
   const filterButtons = document.querySelectorAll(".filter-buttons");
-  // console.log(filterButtons);
+
   filterButtons.forEach(button => {
     button.addEventListener("click", e => {
-      console.log(e.currentTarget.id);
       const thisButton = document.getElementById(e.currentTarget.id);
       thisButton.classList.toggle("disabled");
       const sectionItems = document.querySelectorAll("." + e.currentTarget.id);
-      //console.log(sectionItems);
       sectionItems.forEach(item => {
-        //console.log(item);
         item.classList.toggle("section-hidden");
       });
     });
