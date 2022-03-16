@@ -4,7 +4,7 @@ import clearLocalStorage from "./clearLocalStorage.js";
 import sectionFilter from "./sectionFilter.js";
 import sectionsSetting from "./sectionsSetting.js";
 
-sectionFilter();
+sectionFilter(); // adds section filter
 clearLocalStorage(); // insert button and functionality. does not clear automatically
 const API = new FetchWrapper("https://api.nytimes.com/svc/news/v3/content/");
 
@@ -163,3 +163,8 @@ function fetchStories() {
     spinner.innerHTML = "";
   });
 }
+
+const toTop = document.getElementById("to-top");
+toTop.addEventListener("click", () => {
+  window.scrollTo(0, 0);
+});
